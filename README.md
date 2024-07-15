@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayomide Bajulaye 😊</h1>
 <h3 align="center text-md"> A dedicated frontend Engineer with a passion for crafting impactful applications. When I'm not coding, you'll often find me solving challenges on LeetCode and Edabit, honing my skills in data structures and algorithms. I'm deeply fascinated by the art of System Design, where I excel in simplifying intricate concepts into elegant solutions. In addition to my technical endeavors, I advocate for collaborative development and ongoing learning within the frontend Engineering realm. I stay up-to-date with the latest technologies and methodologies, striving to remain at the cutting edge of the dynamic tech landscape. Feel free to reach out to me via email at ayobaj007@gmail.com. Let's build the next innovative idea together 🤝.</h3>
 
-- 🌱 I’m currently learning **A new language😁.**
+- 🌱 I’m currently learning **a new language😁.**
 
 - 👨‍💻 All of my projects are available at [https://ayomidebajulaye.vercel.app/](https://ayomidebajulaye.vercel.app/)
 
