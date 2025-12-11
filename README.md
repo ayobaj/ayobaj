@@ -1,5 +1,5 @@
 
-<h3 align="left"> Software Engineer. Feel free to reach out to me via email at ayobaj007@gmail.com. Let's build the next innovative idea together 🤝.</h3>
+<h3 align="left"> Frontend Engineer. Feel free to reach out to me via email at ayobaj007@gmail.com. Let's build the next innovative idea together 🤝.</h3>
 
 - 📫 How to reach me **ayobaj007@gmail.com**
 
